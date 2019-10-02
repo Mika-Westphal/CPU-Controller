@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CPU Controller</string>
+    <string name="cpuOverviewTab">Test 1</string>
+    <string name="cpuCLKTab">Test 2</string>
+</resources>
